@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+    <name>Peru</name>
+    <population>34217848</population>
+    <density>27</density>
+    <area>1280000</area>
+    <fertility>2</fertility>
+    <age>30</age>
+    <urban>80 %</urban>
+    <share>0,42</share>
+</country>
+---------------------------------------------------------
